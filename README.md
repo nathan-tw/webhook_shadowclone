@@ -17,6 +17,6 @@ https://url2/api1
 Run the shadowclone server
 ```bash
 git clone https://github.com/nathan-tw/webhook_shadowclone.git
-cd webhook_shadowclone.git
+cd webhook_shadowclone
 go build && ./webhook_shadowclone
 ```
